@@ -1,2 +1,2 @@
-# SieNet-Image-extrapolation
+# SiENet-Image-extrapolation
 SiENet: Siamese Expansion Network for Image Extrapolation
