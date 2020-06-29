@@ -1,7 +1,7 @@
 # SiENet-Image-extrapolation
 Paper:"SiENet: Siamese Expansion Network for Image Extrapolation"
 # Abstract
-In this paper, we propose a novel two-stage siamese adversarial model for image extrapolation, named Siamese Expansion Network(SiENet). In two stages, a novel border sensitive convolution named filling convolution is designed for allowing encoder to predict the unknown content, alleviating the burden of decoder. Besides, to introduce prior knowledge to network and reinforce the inferring ability of encoder, siamese adversarial mechanism is designed to enable our network to model covered long range feature toward the uncovered image feature. The results on four datasets has demonstrated that our method outperforms existing state-of-the-arts and could produce realistic results. Our code is released on.
+In this paper, we propose a novel two-stage siamese adversarial model for image extrapolation, named Siamese Expansion Network(SiENet). In two stages, a novel border sensitive convolution named filling convolution is designed for allowing encoder to predict the unknown content, alleviating the burden of decoder. Besides, to introduce prior knowledge to network and reinforce the inferring ability of encoder, siamese adversarial mechanism is designed to enable our network to model covered long range feature toward the uncovered image feature.
  ![image](https://github.com/nanjingxiaobawang/SieNet-Image-extrapolation/blob/master/results.png)
  ![image](https://github.com/nanjingxiaobawang/SieNet-Image-extrapolation/blob/master/structure.png)
 # Requirements
