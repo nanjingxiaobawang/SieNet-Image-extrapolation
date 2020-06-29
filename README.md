@@ -55,7 +55,7 @@ You can download these datasets from their project website.
 You need to generate mask, We give a mask for your reference.
 
 # Train
-
+You can generate the image list using script scripts/flist.py for training and testing.
 To train our model, modify the model config file model_config.yaml. You may need to change the path of dataset or the parameters of the networks etc. Then run the following code:
 
 ```
