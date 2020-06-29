@@ -27,6 +27,6 @@ git clone https://github.com/nanjingxiaobawang/SieNet-Image-extrapolation/edit/
 cd ./SieNet-Image-extrapolation/resample2d_package
 python setup.py install --user
 
-3. Run 
+# Run 
 our method is evaluated on three datasets, i.e., Cityscapes, paris street-view and beach . Single-direction evaluation is made
 on Scenery dataset.
