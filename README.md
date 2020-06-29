@@ -29,4 +29,4 @@ python setup.py install --user
 
 # Run 
 our method is evaluated on three datasets, i.e., Cityscapes, paris street-view and beach . Single-direction evaluation is made on Scenery dataset. Smooth image
-could be get by [SturctureFlow](https://github.com/RenYurui/StructureFlow）
+could be get by [SturctureFlow][Structureflow](https://github.com/RenYurui/StructureFlow）
