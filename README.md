@@ -20,7 +20,7 @@ Matlab
 
 1.Clone the code
 
-git clone https://github.com/nanjingxiaobawang/SieNet-Image-extrapolation/edit/
+git clone https://github.com/nanjingxiaobawang/SieNet-Image-extrapolation
 
 2.Build Gaussian Sampling CUDA package
 
