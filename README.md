@@ -6,15 +6,15 @@ In this paper, we propose a novel two-stage siamese adversarial model for image 
  ![image](https://github.com/nanjingxiaobawang/SieNet-Image-extrapolation/blob/master/structure.png)
 # Requirements
 
-Pytorch >= 1.0
+1.Pytorch >= 1.0
 
-Python 3
+2.Python 3
 
-NVIDIA GPU + CUDA 9.0
+3.NVIDIA GPU + CUDA 9.0
 
-Tensorboard
+4.Tensorboard
 
-Matlab
+5.Matlab
 
 # Installation
 
