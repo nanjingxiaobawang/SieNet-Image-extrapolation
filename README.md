@@ -69,4 +69,15 @@ python train.py  --name=[the name of your experiment] --path=[path save the resu
 ```
 python test.py --name=[the name of your experiment] --path=[path of your experiments] --input=[input images] --mask=[mask images] --structure=[structure images] --output=[path to save the output images] --model=[which model to be tested]
 ```
+# Citation
+Please kindly cite the following paper in your publications if it helps your research:
 
+@article{2020SiENet,
+  title={SiENet: Siamese Expansion Network for Image Extrapolation},
+  author={ Zhang, X.  and  Chen, F.  and  Wang, C.  and  Wu, S.  and  Jiang, G. },
+  journal={IEEE Signal Processing Letters},
+  volume={PP},
+  number={99},
+  pages={1-1},
+  year={2020},
+}
