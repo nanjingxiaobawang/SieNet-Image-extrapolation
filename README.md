@@ -74,7 +74,7 @@ Please kindly cite the following paper in your publications if it helps your res
 
 ```@article{2020SiENet,
   title={SiENet: Siamese Expansion Network for Image Extrapolation}, 
-  author={ Zhang, X.  and  Chen, F.  and  Wang, C.  and  Wu, S.  and  Jiang, G. },
+  author={ Zhang, X.  and  Chen, F.  and  Wang, C.  and  Tao, M.  and  Jiang, G. },
   journal={IEEE Signal Processing Letters},
   volume={PP},
   number={99},
