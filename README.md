@@ -65,7 +65,7 @@ python train.py  --name=[the name of your experiment] --path=[path save the resu
 # Testing
 ## Pretrained model 
 you can achieve pretrained model here:
-[Paris](),
+[Paris](https://drive.google.com/file/d/1FV0js5L59mwvSo3EHCwaEVpfTssJGgRK/view?usp=sharing),
 [Cityscapes](https://drive.google.com/file/d/1RDchFRO8VQ-UUo2TinYlM_edMmSMX0W9/view?usp=sharing)
  you can use the test.py to generate results. Run the following code:
 
